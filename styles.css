@@ -3,7 +3,7 @@ position: relative;
 top:53px;
 left:0px;
 background-color: #f50722;
-height:604px;
+height:30.2em;
 color:#ffffff;
 }
 
@@ -20,9 +20,9 @@ font-size: 50px;
 font-family: Monotype Corsiva;
 text-align:left;
 position: absolute;
-top:50px;
+top:0px;
 Background-color:#f50722;
-height:607px;
+height:100%;
 width:50%;
 }
 
@@ -38,9 +38,9 @@ font-size: 35px;
 .photo{
 position: absolute;
 left:683px;
-top:50px;
+top:52px;
 Background-color: #f50722;
-height:607px;
+height:92%;
 width:50%;
 }
 
@@ -73,29 +73,32 @@ padding:20px;
 
 .container{
 position: absolute;
-top:50px;
-left:00px;
-height:92.3%;
+top:53px;
+left:0px;
+height:92%;
 width:50%;
 background-color:#f50722;
 }
  
 .fa-map-marker{
-position:relative;
-top:-50px;
+position:absolute;
+top: 140px;
 left:60px;
+color: #ffffff;
 }
 
 .fa-envelope{
 position:absolute;
 top:250px;
 left:60px;
+color: #ffffff;
 }
 
 .fa-mobile-phone{
 position:absolute;
 top:340px;
 left:70px;
+color: #ffffff;
 }
 
 .address{
@@ -104,6 +107,7 @@ top:100px;
 left:150px;
 font-family:Monotype Corsiva;
 font-size:30px;
+color: #ffffff;
 }
 
 .email{
@@ -112,6 +116,7 @@ top:220px;
 left:150px;
 font-family:Monotype Corsiva;
 font-size:30px;
+color: #ffffff;
 }
 
 .phone{
@@ -120,14 +125,15 @@ top:310px;
 left:150px;
 font-family:Monotype Corsiva;
 font-size:30px;
+color: #ffffff;
 }
 
 .backimage{
 position: absolute;
 left:683px;
-top:50px;
+top:53px;
 Background-color: #f50722;
-height:607px;
+height:92%;
 width:50%;
 background-image:url("img/Web2red.jpg");
 background-size: cover;
@@ -135,12 +141,13 @@ background-size: cover;
 
 h4{
 position:relative;
-top:-10px;
-left:200px;
-color:#000000;
+top:-50px;
+left:180px;
+color: #ffffff;
 font-family:Monotype Corsiva;
-font-size: 40px;
+font-size: 50px;
 width:cover;
 padding:20px;
 }
+
 
